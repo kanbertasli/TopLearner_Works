@@ -10,3 +10,5 @@
 
 
 ## Requirements
+
+Please check the requirements.txt file.
